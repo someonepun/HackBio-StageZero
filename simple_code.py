@@ -7,6 +7,14 @@ team_aspartic = [
         "hobby": "Product Design",
         "affiliation": "Kathmandu University",
         "favorite_gene": ">NC_060943.1:47730492-47734089 APOE [organism=Homo sapiens] [GeneID=348] [chromosome=19]CTACTCAGCCCCAGCGGAGGTGAAGGACGTCCTTCCCCAGGAGCCGGTGAGAAGCGCAGTCGGGGGCACGGGGATGAGCTCAGGGGCCTCTAGAAAGAGCTGGGACCCTGGGAAGCCCTGGCCTCCAGGTAGTCTCAGGAGAGCTACTCGGGGTCGGGCTTGGGGAGAGGAGGAGCGGGGGTGAGGCAAGCAGCAGGGGACTGGACCTGGGAAGGGCTGGGCAGCAGAGACGACCCGACCCGCTAGAAGGTGGGGTGGGGAGAGCAGCTGGACTGGGATG"
+    },
+    {
+        "name": "Member Name Aspartic",
+        "slack_username": "@handel ",
+        "country": "Country",
+        "hobby": "",
+        "affiliation": "",
+        "favorite_gene": "TP53"
     }
 ]
 
